@@ -1,0 +1,53 @@
+header {
+    color: white;
+    background-color: purple;
+    margin: 0em 4em 1em 4em;
+}
+
+footer {
+    color: pink;
+    background-color: maroon;
+    margin: 0em 4em 1em 4em;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+h2 {
+    font-size: 125%;
+}
+
+h3 {
+    font-size: 150%;
+    border-bottom: solid;
+    border-bottom-width: 1px;
+}
+
+p {
+    color: darkcyan
+    padding: .2em;
+}
+
+body {
+    background-color: yellow;
+}
+
+figure img {
+    border: solid;
+    border-width: 1px;
+    padding: .2em;
+    display: block;
+}
+
+figcaption {
+    color: red;
+}
+
+article {
+    width: 88%;
+    margin-bottom: 50px;
+    background-color: white;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    margin: 1em 4em 2em 4em;
+}
